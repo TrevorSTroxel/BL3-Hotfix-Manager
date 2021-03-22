@@ -1,0 +1,1 @@
+[{"DefaultInputParameter": ["DP_Self", "/Game/Dialog/GlobalParameters/DP_Self"], "Guid": "857b75808ad84a8d879abc7e1e9cc2db", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Object"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_CharacterIs_Who", "export_type": "DialogParameter"}]

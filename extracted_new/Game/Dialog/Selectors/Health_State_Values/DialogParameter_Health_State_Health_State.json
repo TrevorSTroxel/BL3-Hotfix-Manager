@@ -1,0 +1,1 @@
+[{"Guid": "76d69d158c5f4af4918f436dd84af4c5", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Enum", "SecondaryType": ["Dialog_EnumType_Health_State", "/Game/Dialog/Enums/Dialog_EnumType_Health_State"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_Health_State_Health_State", "export_type": "DialogParameter"}]

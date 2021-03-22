@@ -1,0 +1,1 @@
+[{"InitiallyEnabled": true, "LinkedWeaponSlot": ["BPInvWeaponSlot_OffHand", "/Game/Enemies/Goliath/_Shared/_Design/Weapons/BPInvWeaponSlot_OffHand"], "SocketName": "R_Hand_Weapon", "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "BPInvWeaponSlot_MainHand", "export_type": "WeaponSlotData"}]

@@ -1,0 +1,1 @@
+[{"Guid": "e301659f92394db8ad90e0ac06f6c00d", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Enum", "SecondaryType": ["DialogEnumType_Mission", "/Game/Dialog/Enums/DialogEnumType_Mission"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_MissionRange_To", "export_type": "DialogParameter"}]

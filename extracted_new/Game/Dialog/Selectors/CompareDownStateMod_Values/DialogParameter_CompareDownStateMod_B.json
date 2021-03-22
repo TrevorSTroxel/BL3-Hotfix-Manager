@@ -1,0 +1,1 @@
+[{"Guid": "f7d216e2f9c14f7884c83661fe55966c", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Enum", "SecondaryType": ["DialogEnumType_DownStateMod", "/Game/Dialog/Enums/DialogEnumType_DownStateMod"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_CompareDownStateMod_B", "export_type": "DialogParameter"}]

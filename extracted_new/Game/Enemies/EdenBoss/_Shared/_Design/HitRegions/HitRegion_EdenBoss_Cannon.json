@@ -1,0 +1,1 @@
+[{"BoneNames": ["Chest_CritSpot1", "Chest_CritSpot2", "Chest_CritSpot3", "Chest_CritSpot4"], "DamageScale": {"BaseValueConstant": 1.4}, "HitRegionName": "CannonCrit", "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "HitRegion_EdenBoss_Cannon", "bCriticalHit": true, "bUseDamageScale": true, "export_type": "OakHitRegionData"}]

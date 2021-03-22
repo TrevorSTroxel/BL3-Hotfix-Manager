@@ -1,0 +1,1 @@
+[{"DefaultInputParameter": ["DP_Self", "/Game/Dialog/GlobalParameters/DP_Self"], "Guid": "28e1660c4e88d277c93d838082dbb9b8", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Object"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_TroyIsAlive_Context", "export_type": "DialogParameter"}]
