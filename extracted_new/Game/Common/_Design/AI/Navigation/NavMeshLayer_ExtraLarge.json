@@ -1,0 +1,1 @@
+[{"DrawColor": {"a": 128, "b": 16, "g": 0, "r": 255}, "MaxAgentHalfHeight": 240.0, "MaxAgentRadius": 500.0, "UserEdgeDistance": 350.0, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "NavMeshLayer_ExtraLarge", "bSetRadiusManually": true, "bSetUserEdgeDistanceManually": true, "export_type": "GbxNavMeshLayer"}]
