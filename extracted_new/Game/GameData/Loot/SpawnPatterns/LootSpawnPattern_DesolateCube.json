@@ -1,0 +1,1 @@
+[{"Direction": {"ConeAroundDirection": {"BaseValueConstant": 45.0}, "RelativeDirection": "ERelativeDirectionType::StraightDown"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "LootSpawnPattern_DesolateCube", "bEnableAngularSpeedRange": true, "bEnableSpeedRange": true, "export_type": "LootSpawnPatternData"}]

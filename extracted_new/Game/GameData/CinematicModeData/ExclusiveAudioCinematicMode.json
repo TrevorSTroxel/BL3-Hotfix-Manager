@@ -1,0 +1,1 @@
+[{"AudioMode": "ECinematicAudioMode::ExclusiveMode", "OverrideHUDState": ["UIData_HUDState_Cinematic", "/Game/UI/HUD/HUDStates/UIData_HUDState_Cinematic"], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "ExclusiveAudioCinematicMode", "bHideDroppedPickups": true, "bHideNPC": true, "bReapCorpses": true, "export_type": "OakCinematicModeData"}]
