@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 5000.0, "RequiredBank": ["WwiseBank_NPC_Mimic", "/Dandelion/Audio/SoundBanks/NPC_Mimic/WwiseBank_NPC_Mimic"], "ShortID": 406122838, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_NPC_Mimic_Angry", "bHighImportance": true, "export_type": "WwiseEvent"}]

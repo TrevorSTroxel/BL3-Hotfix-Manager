@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 5.770167, "Min": 5.770167}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_TC", "/Dandelion/Audio/SoundBanks/Seq/WwiseBank_TC"], "ShortID": 3073244874, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_SEQ_Screen_ThePlan_Transition", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

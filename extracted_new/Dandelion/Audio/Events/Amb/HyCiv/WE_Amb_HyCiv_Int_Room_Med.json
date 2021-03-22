@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 3000.0, "RequiredBank": ["WwiseBank_Amb_HyCiv", "/Dandelion/Audio/SoundBanks/Amb/WwiseBank_Amb_HyCiv"], "ShortID": 4039755986, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Amb_HyCiv_Int_Room_Med", "export_type": "WwiseEvent"}]
