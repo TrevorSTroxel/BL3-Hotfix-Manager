@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 3.975, "Min": 3.975}, "MaxAttenuationRadius": 3000.0, "RequiredBank": ["WwiseBank_Map_Chase", "/Alisma/Audio/SoundBanks/Maps/WwiseBank_Map_Chase"], "ShortID": 1875533218, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_Mission_Bookstand_Used", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

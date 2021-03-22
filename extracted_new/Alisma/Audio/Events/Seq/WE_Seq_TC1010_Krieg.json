@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 15.0, "Min": 15.0}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_Ali_Seq", "/Alisma/Audio/SoundBanks/Seq/WwiseBank_Ali_Seq"], "ShortID": 4060558459, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Seq_TC1010_Krieg", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

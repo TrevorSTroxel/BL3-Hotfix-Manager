@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 50000.0, "RequiredBank": ["WwiseBank_Crea_DarkRaiders", "/Alisma/Audio/SoundBanks/Creatures/WwiseBank_Crea_DarkRaiders"], "ShortID": 988634988, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Crea_DarkLilith_Tornado_Start", "export_type": "WwiseEvent"}]
