@@ -6,3 +6,10 @@
 *.ini
 *.dat
 *.locres
+*.res
+*.locmeta
+*.png
+*.tps
+*.ttf
+*.ufont
+*.uplugin
