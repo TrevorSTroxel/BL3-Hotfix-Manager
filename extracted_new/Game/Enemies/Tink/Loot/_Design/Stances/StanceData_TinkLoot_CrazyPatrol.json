@@ -1,0 +1,1 @@
+[{"MaxRotation": {"Value": 0.8}, "StanceDataToShowAnimSystem": ["StanceData_Generic_Combat", "/Game/GameData/Stances/Data/StanceData_Generic_Combat"], "WaitTimeBeforeFirstFidgetAnim": 3.0, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "StanceData_TinkLoot_CrazyPatrol", "bThisStanceAllowsFidgetAnims": true, "export_type": "OakStanceData"}]

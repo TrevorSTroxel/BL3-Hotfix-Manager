@@ -1,0 +1,1 @@
+[{"SlopeAdaptation": {"x": 0.75, "y": 1.0, "z": 0.0}, "SlopeAdaptationBone": {"BoneName": "Root"}, "SlopeNormalMaxInterpSpeed": 5.0, "SlopeNormalMinInterpSpeed": 3.0, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "ABP_SkagShared", "bImportedLegIKSettings": true, "export_type": "GbxAnimBlueprintProfile"}]
