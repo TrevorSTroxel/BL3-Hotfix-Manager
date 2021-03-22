@@ -1,0 +1,1 @@
+[{"BasePriority": 100.0, "SectionName": "ManufacturerBottom", "Text": {"key": "01DCCCF64A6863A6343E238B28FBB91E", "namespace": "", "string": "Adds [cryo]Cryo[/cryo] damage to all [skill]Melee[/skill] attacks."}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Artifact_Ability_CryoStone_Description", "export_type": "UIStatData_Text"}]

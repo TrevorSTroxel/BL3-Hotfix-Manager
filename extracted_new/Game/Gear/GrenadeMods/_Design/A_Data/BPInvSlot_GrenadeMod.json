@@ -1,0 +1,1 @@
+[{"DisplayName": {"key": "151C92FA424AED8A76247E8D3A0A86B6", "namespace": "", "string": "GRENADE MODS"}, "NativeClass": ["BPInvSlot_BaseGrenadeMod_C", "/Game/Gear/GrenadeMods/_Design/A_Data/BPInvSlot_BaseGrenadeMod"], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "BPInvSlot_GrenadeMod", "export_type": "BPInvSlot_BaseGrenadeMod_C"}]

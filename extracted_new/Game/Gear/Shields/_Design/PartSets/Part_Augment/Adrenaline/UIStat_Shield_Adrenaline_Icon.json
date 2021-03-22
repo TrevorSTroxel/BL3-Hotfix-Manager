@@ -1,0 +1,1 @@
+[{"BasePriority": 1.5, "IconFrameName": "shield_Adrenaline", "SectionName": "ShieldModifiers", "Text": {"key": "8B0136B0449ECF642402A5B252815E65", "namespace": "", "string": "ADRENALINE"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Shield_Adrenaline_Icon", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

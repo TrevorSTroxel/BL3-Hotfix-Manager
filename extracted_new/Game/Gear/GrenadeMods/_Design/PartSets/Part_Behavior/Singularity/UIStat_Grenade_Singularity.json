@@ -1,0 +1,1 @@
+[{"BasePriority": 1.0, "IconFrameName": "grenade_Singularity", "SectionName": "GrenadeModifiers", "Text": {"key": "60380CBC4FCD85587B4350AB19BAFEBE", "namespace": "", "string": "SINGULARITY"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Grenade_Singularity", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

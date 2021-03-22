@@ -1,0 +1,1 @@
+[{"BasePriority": 2.9, "IconFrameName": "shield_RechargeDelay", "SectionName": "ShieldModifiers", "Text": {"key": "9F5FF0334BE32A4D912E74829C9F4E8B", "namespace": "", "string": "DELAY"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Shield_RechargeDelay_Icon", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

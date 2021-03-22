@@ -1,0 +1,1 @@
+[{"DefaultResourcePoolData": ["ResourcePool_TurretAccuracy", "/Game/GameData/Vehicle/ResourcePool_TurretAccuracy"], "ResourceName": {"key": "1A2F9BF94AFCE9CF522190A7D9144D99", "namespace": "", "string": "TurretAccuracy"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "Resource_TurretAccuracy", "export_type": "GameResourceData"}]

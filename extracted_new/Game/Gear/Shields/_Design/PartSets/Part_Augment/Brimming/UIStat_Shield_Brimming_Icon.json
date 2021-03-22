@@ -1,0 +1,1 @@
+[{"BasePriority": 1.35, "IconFrameName": "shield_Brimming", "SectionName": "ShieldModifiers", "Text": {"key": "6E445D334B5C634624288EA5288315DD", "namespace": "", "string": "BRIMMING"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Shield_Brimming_Icon", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

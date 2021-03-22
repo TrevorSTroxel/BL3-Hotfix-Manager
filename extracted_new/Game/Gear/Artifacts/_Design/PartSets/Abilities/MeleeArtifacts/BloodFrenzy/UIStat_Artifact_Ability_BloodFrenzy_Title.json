@@ -1,0 +1,1 @@
+[{"BasePriority": 100.0, "IconFrameName": "BloodFrenzy", "SectionName": "ArtifactTitleAbility", "Text": {"key": "EC6B03A24F2BA04210285295C445FEA5", "namespace": "", "string": "MELEE ENEMIES TO TRIGGER ENRAGE"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Artifact_Ability_BloodFrenzy_Title", "export_type": "UIStatData_Text"}]

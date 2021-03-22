@@ -1,0 +1,1 @@
+[{"BasePriority": 2.9, "IconFrameName": "grenade_MiniMIRV", "SectionName": "GrenadeModifiers", "Text": {"key": "8FAAFD4242CFD47CD4A0F59E5DF0E3CA", "namespace": "", "string": "MINI-MIRV"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Grenade_MirvMirv", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

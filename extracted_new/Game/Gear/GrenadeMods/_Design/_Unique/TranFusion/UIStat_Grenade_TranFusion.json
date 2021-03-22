@@ -1,0 +1,1 @@
+[{"BasePriority": 40.0, "IconFrameName": "grenade_Special", "SectionName": "GrenadeModifiers", "Text": {"key": "6B3096B843BAEA333306C591651F709E", "namespace": "", "string": "TRAN-FUSION"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Grenade_TranFusion", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]
