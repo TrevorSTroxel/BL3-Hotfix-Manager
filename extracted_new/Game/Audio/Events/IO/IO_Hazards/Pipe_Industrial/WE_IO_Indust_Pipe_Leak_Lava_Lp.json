@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 6000.0, "RequiredBank": ["WwiseBank_IO_Hazard_Pipe_Indust", "/Game/Audio/SoundBanks/IO/IO_Hazards/WwiseBank_IO_Hazard_Pipe_Indust"], "ShortID": 3309079302, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_Indust_Pipe_Leak_Lava_Lp", "export_type": "WwiseEvent"}]

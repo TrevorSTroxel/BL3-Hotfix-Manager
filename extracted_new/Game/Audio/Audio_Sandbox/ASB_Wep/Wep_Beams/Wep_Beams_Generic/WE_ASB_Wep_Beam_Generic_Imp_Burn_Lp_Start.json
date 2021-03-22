@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 1500.0, "RequiredBank": ["WwiseBank_ASB_Wep", "/Game/Audio/SoundBanks/Audio_Sandbox/ASB_Wep/WwiseBank_ASB_Wep"], "ShortID": 1735621689, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_ASB_Wep_Beam_Generic_Imp_Burn_Lp_Start", "export_type": "WwiseEvent"}]

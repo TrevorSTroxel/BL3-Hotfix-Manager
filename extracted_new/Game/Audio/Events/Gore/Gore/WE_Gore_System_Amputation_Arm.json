@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 4.297908, "Min": 2.9984264}, "MaxAttenuationRadius": 3000.0, "RequiredBank": ["WwiseBank_Gore", "/Game/Audio/SoundBanks/Gore/Gore/WwiseBank_Gore"], "ShortID": 2998205180, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Gore_System_Amputation_Arm", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

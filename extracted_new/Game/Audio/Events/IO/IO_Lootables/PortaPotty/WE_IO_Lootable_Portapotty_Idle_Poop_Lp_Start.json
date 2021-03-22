@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 2000.0, "RequiredBank": ["WwiseBank_IO_Lootables", "/Game/Audio/SoundBanks/IO/IO_Lootables/WwiseBank_IO_Lootables"], "ShortID": 4146091753, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_Lootable_Portapotty_Idle_Poop_Lp_Start", "export_type": "WwiseEvent"}]

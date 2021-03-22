@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 2000.0, "RequiredBank": ["WwiseBank_IO_ElectricalSystems", "/Game/Audio/SoundBanks/IO/IO_ElectricalSystems/WwiseBank_IO_ElectricalSystems"], "ShortID": 2792487032, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_ElectricRouter_Lp_Start", "export_type": "WwiseEvent"}]

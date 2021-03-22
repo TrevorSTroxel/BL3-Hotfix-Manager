@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 1000.0, "RequiredBank": ["WwiseBank_Map_Sanc3", "/Game/Audio/SoundBanks/Maps/Sanctuary3/Map_Sanc3/WwiseBank_Map_Sanc3"], "ShortID": 3098417808, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Amb_Sanc3_ShipIdle_Lp", "export_type": "WwiseEvent"}]

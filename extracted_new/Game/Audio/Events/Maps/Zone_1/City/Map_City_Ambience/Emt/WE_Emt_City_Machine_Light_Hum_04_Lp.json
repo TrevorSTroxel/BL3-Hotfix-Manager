@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 2000.0, "RequiredBank": ["WwiseBank_Map_City", "/Game/Audio/SoundBanks/Maps/Zone_1/City/Map_City/WwiseBank_Map_City"], "ShortID": 1099683735, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Emt_City_Machine_Light_Hum_04_Lp", "export_type": "WwiseEvent"}]

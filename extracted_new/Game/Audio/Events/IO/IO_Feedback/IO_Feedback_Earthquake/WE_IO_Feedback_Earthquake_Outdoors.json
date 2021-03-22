@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_IO_Feedback", "/Game/Audio/SoundBanks/IO/IO_Feedback/WwiseBank_IO_Feedback"], "ShortID": 1202833405, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_Feedback_Earthquake_Outdoors", "export_type": "WwiseEvent"}]

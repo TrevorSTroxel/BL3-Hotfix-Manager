@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 2500.0, "RequiredBank": ["WwiseBank_ASB_Char", "/Game/Audio/SoundBanks/Audio_Sandbox/ASB_Char/WwiseBank_ASB_Char"], "ShortID": 1367442686, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_ASB_Char_Skill_Burrow_Sm_Start", "export_type": "WwiseEvent"}]
