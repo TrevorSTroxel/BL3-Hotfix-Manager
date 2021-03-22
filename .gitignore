@@ -3,3 +3,6 @@
 *.ubulk
 *.bin
 *.umap
+*.ini
+*.dat
+*.locres
