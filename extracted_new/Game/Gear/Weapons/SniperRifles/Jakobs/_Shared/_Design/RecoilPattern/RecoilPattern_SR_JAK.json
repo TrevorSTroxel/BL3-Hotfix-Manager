@@ -1,0 +1,1 @@
+[{"EndOfPatternAction": "ERecoilEndOfPatternAction::Reset", "PatternHeightGoodness": 0.185, "PatternWidthGoodness": 0.013, "Samples": [{"x": 0.015, "y": 0.17}, {"x": 0.011, "y": 0.2}, {"x": 0.013, "y": 0.185}], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "RecoilPattern_SR_JAK", "bRandom": true, "export_type": "RecoilPatternData"}]
