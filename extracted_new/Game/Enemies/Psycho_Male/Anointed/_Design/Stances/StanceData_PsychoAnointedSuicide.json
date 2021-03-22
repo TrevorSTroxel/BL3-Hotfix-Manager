@@ -1,0 +1,1 @@
+[{"MaxSpeed": {"Value": 1024.0, "ValueType": "EStanceValueOverrideType::Absolute"}, "StanceDataToShowAnimSystem": ["StanceData_SuicideRun", "/Game/Enemies/Psycho_Male/Suicide/_Design/Stances/StanceData_SuicideRun"], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "StanceData_PsychoAnointedSuicide", "export_type": "OakStanceData"}]

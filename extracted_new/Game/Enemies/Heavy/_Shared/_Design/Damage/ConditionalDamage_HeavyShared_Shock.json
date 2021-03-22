@@ -1,0 +1,1 @@
+[{"DamageTypeFilter": [["DmgType_Shock_Status_C", "/Game/GameData/DamageTypes/Shock/DmgType_Shock_Status"]], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "ConditionalDamage_HeavyShared_Shock", "export_type": "ConditionalDamageValueModifier"}]

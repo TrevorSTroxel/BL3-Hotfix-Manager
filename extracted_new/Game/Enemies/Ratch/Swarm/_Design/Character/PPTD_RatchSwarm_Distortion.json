@@ -1,0 +1,1 @@
+[{"PauseDuration": 0.7, "ValueChangePerSecond": -0.13, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "PPTD_RatchSwarm_Distortion", "bChangeValueOverTime": true, "bDestroyParticleWhenTrackingStopped": true, "bPauseChangeOnUpdate": true, "bStopTrackingWhenMinReached": true, "export_type": "ParticlePropertyTrackingData"}]

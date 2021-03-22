@@ -1,0 +1,1 @@
+[{"MaxAcceleration": 400.0, "MaxRotation": {"Value": 0.35}, "MaxSpeed": {"Value": 0.15}, "SlowdownSpeed": {"Value": 0.075}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "StanceData_RatchBasic_Patrol", "bOverrideMaxAcceleration": true, "bOverrideSlowdownSpeed": true, "export_type": "OakStanceData"}]

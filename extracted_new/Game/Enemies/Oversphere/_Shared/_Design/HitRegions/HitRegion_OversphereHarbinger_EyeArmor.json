@@ -1,0 +1,1 @@
+[{"BoneNames": ["None"], "HealthParams": {"OwnerHealthPercent": 0.45}, "HitRegionName": "EyeArmor", "OutgoingReflectedDamageScale": 0.0, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "HitRegion_OversphereHarbinger_EyeArmor", "bCanRicochet": true, "bDisableBulletMagnetism": true, "export_type": "OakHitRegionData"}]

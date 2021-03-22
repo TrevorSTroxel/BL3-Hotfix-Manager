@@ -1,0 +1,1 @@
+[{"DrawColor": {"a": 255, "b": 0, "g": 255, "r": 255}, "ReverseEdge": ["NavUserEdge_PromBoss_Phase1_Jump", "/Game/Enemies/PrometheaBoss/_Shared/_Design/Navigation/NavUserEdge_PromBoss_Phase1_Jump"], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "NavUserEdge_PromBoss_Phase1_Colliseum_Up", "bAlignEdges": true, "export_type": "GbxUserEdge"}]
