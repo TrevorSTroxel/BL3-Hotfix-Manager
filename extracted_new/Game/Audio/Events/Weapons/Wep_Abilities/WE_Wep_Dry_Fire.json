@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.5119375, "Min": 0.0}, "MaxAttenuationRadius": 750.0, "RequiredBank": ["WwiseBank_Wep_Abilities", "/Game/Audio/SoundBanks/Weapons/Wep_Abilities/WwiseBank_Wep_Abilities"], "ShortID": 3940392484, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Wep_Dry_Fire", "bOneShot": true, "export_type": "WwiseEvent"}]

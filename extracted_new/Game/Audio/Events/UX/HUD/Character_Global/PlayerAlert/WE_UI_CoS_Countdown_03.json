@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 1.0348333, "Min": 1.0348333}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_HUD", "/Game/Audio/SoundBanks/UX/UX/WwiseBank_HUD"], "ShortID": 2319744701, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_UI_CoS_Countdown_03", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

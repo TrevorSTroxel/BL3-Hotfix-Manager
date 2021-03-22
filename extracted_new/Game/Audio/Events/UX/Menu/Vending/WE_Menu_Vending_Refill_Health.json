@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.74102086, "Min": 0.74102086}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_Menu", "/Game/Audio/SoundBanks/UX/UX/WwiseBank_Menu"], "ShortID": 3506218638, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Menu_Vending_Refill_Health", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

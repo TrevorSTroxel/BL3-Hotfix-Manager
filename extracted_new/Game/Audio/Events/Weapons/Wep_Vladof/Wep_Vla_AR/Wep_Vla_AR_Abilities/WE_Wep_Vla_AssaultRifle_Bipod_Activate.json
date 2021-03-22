@@ -1,0 +1,1 @@
+[{"export_type":"WwiseEvent","_apoc_data_ver":19,"_jwp_export_idx":1,"_jwp_is_asset":true,"_jwp_object_name":"WE_Wep_Vla_AssaultRifle_Bipod_Activate","RequiredBank":["WwiseBank_Wep_Vla","/Game/Audio/SoundBanks/Weapons/Wep_Vladof/WwiseBank_Wep_Vla"],"MaxAttenuationRadius":6000.0,"DurationRange":{"Min":0.0,"Max":0.0},"bUsesPerspectiveParameter":true,"ShortID":3595775668}]

@@ -1,0 +1,1 @@
+[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 3000.0, "RequiredBank": ["WwiseBank_Map_Motorcade", "/Game/Audio/SoundBanks/Maps/Zone_3/Motorcade/Map_Motorcade/WwiseBank_Map_Motorcade"], "ShortID": 2724967198, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Amb_Motorcade_Homestead_Lp", "export_type": "WwiseEvent"}]
