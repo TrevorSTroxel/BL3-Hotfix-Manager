@@ -1,0 +1,1 @@
+[{"MaxVelocity": 3000.0, "TimeToReachCenter": 1.0, "VerticalAcceleration": {"ExternalCurve": ["Curve_GeyserAcceleration_Crypt", "/Game/Missions/Plot/EP21_TheMachine/Curve_GeyserAcceleration_Crypt"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "GeyserData_IO_Crypt_AirPush", "bPullToCenter": true, "export_type": "GeyserAlwaysOnData"}]
