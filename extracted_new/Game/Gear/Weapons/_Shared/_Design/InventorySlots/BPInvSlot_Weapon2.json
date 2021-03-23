@@ -1,0 +1,1 @@
+[{"DisplayName": {"key": "3538D497428C31C290A3F89A1103B45E", "namespace": "", "string": "WEAPONS"}, "NativeClass": ["BPInvSlot_BaseWeapon_C", "/Game/Gear/Weapons/_Shared/_Design/BPInvSlot_BaseWeapon"], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "BPInvSlot_Weapon2", "bShowHolsteredOnBody": true, "export_type": "BPInvSlot_BaseWeapon_C"}]
