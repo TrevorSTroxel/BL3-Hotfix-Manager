@@ -1,0 +1,1 @@
+[{"BalanceData": {"DataTable": ["DataTable_HealthTypeBalance", "/Game/GameData/Balance/HealthAndDamage/DataTable_HealthTypeBalance"], "RowName": "Default"}, "DisplayColor": {"a": 1.0, "b": 0.5, "g": 0.5, "r": 0.5}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "HealthType_DestructibleIO_Basic", "export_type": "HealthTypeData"}]
