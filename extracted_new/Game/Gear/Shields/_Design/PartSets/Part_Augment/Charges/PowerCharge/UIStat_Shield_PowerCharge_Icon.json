@@ -1,1 +1,0 @@
-[{"BasePriority": 0.1, "IconFrameName": "shield_PowerCharge", "SectionName": "ShieldModifiers", "Text": {"key": "247FAB184FA94FE09CDB58927F192216", "namespace": "", "string": "POWER CHARGE"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Shield_PowerCharge_Icon", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

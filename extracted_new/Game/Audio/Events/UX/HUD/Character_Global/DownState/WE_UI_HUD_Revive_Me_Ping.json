@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.50895834, "Min": 0.50895834}, "MaxAttenuationRadius": 30000.0, "RequiredBank": ["WwiseBank_HUD", "/Game/Audio/SoundBanks/UX/UX/WwiseBank_HUD"], "ShortID": 4114439735, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_UI_HUD_Revive_Me_Ping", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

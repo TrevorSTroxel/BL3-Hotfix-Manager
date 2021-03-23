@@ -1,1 +1,0 @@
-[{"BasePriority": 1.4, "IconFrameName": "shield_Absorb", "SectionName": "ShieldModifiers", "Text": {"key": "500060C64CE34382AF9F8C9D81900FB2", "namespace": "", "string": "ABSORB"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Shield_Absorb_Icon", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

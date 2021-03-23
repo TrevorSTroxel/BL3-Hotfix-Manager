@@ -1,1 +1,0 @@
-[{"Guid": "6d96e9a3a6ea463ab53e4da700b40ad1", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Enum", "SecondaryType": ["DialogEnumType_ActionSkillMod", "/Game/Dialog/Enums/DialogEnumType_ActionSkillMod"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_CompareActionSkillMod_A", "export_type": "DialogParameter"}]

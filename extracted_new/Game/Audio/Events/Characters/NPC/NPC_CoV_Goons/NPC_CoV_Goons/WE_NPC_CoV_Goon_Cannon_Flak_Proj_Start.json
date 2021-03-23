@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 750.0, "RequiredBank": ["WwiseBank_NPC_CoV_Goons", "/Game/Audio/SoundBanks/Characters/NPC/NPC_CoV_Goons/WwiseBank_NPC_CoV_Goons"], "ShortID": 4064695769, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_NPC_CoV_Goon_Cannon_Flak_Proj_Start", "export_type": "WwiseEvent"}]

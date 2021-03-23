@@ -1,1 +1,0 @@
-[{"Guid": "840f06de4a894ee0ba0e66c6cbbb6e90", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Enum", "SecondaryType": ["DialogEnumType_ActorTags", "/Game/Dialog/Enums/DialogEnumType_ActorTags"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_Actor_Has_Tag_Tag", "export_type": "DialogParameter"}]

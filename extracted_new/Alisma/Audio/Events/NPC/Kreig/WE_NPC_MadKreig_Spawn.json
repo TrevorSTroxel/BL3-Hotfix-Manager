@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 7.9307537, "Min": 6.1822205}, "MaxAttenuationRadius": 9000.0, "RequiredBank": ["WwiseBank_Kreig", "/Alisma/Audio/SoundBanks/NPC/WwiseBank_Kreig"], "ShortID": 2733802907, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_NPC_MadKreig_Spawn", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

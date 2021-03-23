@@ -1,1 +1,0 @@
-[{"EndOfPatternAction": "ERecoilEndOfPatternAction::Reset", "PatternHeightGoodness": 0.31, "PatternWidthGoodness": 0.045, "Samples": [{"x": 0.045, "y": 0.32}, {"x": 0.055, "y": 0.31}, {"x": 0.0, "y": 0.3}], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "RecoilPattern_SG_MAL_Shockwave", "bRandom": true, "export_type": "RecoilPatternData"}]

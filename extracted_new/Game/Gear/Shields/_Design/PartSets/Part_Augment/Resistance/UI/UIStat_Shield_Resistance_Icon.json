@@ -1,1 +1,0 @@
-[{"BasePriority": 10.0, "IconFrameName": "shield_Resistant", "SectionName": "ShieldModifiers", "Text": {"key": "EC3A736640FE1A2BE2BB1C8648A94AE3", "namespace": "", "string": "RESISTANT"}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "UIStat_Shield_Resistance_Icon", "bCanDisplayMultipleTimes": true, "export_type": "UIStatData_Text"}]

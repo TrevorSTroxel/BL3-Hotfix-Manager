@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_HUD", "/Game/Audio/SoundBanks/UX/UX/WwiseBank_HUD"], "ShortID": 4124957108, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_UI_HUD_Boundary_Warning_Play", "export_type": "WwiseEvent"}]

@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 3000.0, "RequiredBank": ["WwiseBank_IO_Hazard_Pools", "/Game/Audio/SoundBanks/IO/IO_Hazards/WwiseBank_IO_Hazard_Pools"], "ShortID": 1962196485, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_Hazard_Pool_Oil_Burning_Amb", "export_type": "WwiseEvent"}]

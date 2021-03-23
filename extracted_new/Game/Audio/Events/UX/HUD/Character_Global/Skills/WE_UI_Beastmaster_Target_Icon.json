@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.2651875, "Min": 0.2651875}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_HUD", "/Game/Audio/SoundBanks/UX/UX/WwiseBank_HUD"], "ShortID": 1435916765, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_UI_Beastmaster_Target_Icon", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

@@ -1,1 +1,0 @@
-[{"Guid": "75450a13f0094cd48402446eac67a522", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Enum", "SecondaryType": ["DialogEnumType_Day_Night", "/Game/Dialog/Enums/DialogEnumType_Day_Night"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_Time_of_Day_Is_Time_of_Day", "export_type": "DialogParameter"}]

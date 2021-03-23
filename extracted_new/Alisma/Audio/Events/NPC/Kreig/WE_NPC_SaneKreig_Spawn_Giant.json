@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 5.572604, "Min": 5.2392707}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_Kreig", "/Alisma/Audio/SoundBanks/NPC/WwiseBank_Kreig"], "ShortID": 3416661848, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_NPC_SaneKreig_Spawn_Giant", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

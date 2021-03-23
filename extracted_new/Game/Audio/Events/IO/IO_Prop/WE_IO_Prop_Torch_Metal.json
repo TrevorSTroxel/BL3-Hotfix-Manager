@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 1000.0, "RequiredBank": ["WwiseBank_IO_Prop", "/Game/Audio/SoundBanks/IO/IO_Prop/WwiseBank_IO_Prop"], "ShortID": 38742192, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_Prop_Torch_Metal", "export_type": "WwiseEvent"}]

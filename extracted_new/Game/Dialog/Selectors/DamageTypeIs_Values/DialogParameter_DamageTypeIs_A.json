@@ -1,1 +1,0 @@
-[{"Guid": "5947515852fa4b03884656b989fdae3e", "Type": {"PrimaryType": "EDialogParameterPrimaryType::Enum", "SecondaryType": ["DialogEnumType_DamageType", "/Game/Dialog/Enums/DialogEnumType_DamageType"]}, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "DialogParameter_DamageTypeIs_A", "export_type": "DialogParameter"}]

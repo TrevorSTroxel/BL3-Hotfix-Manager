@@ -1,1 +1,0 @@
-[{"MaxSpeed": {"Value": 6.0}, "StanceDataToShowAnimSystem": ["StanceData_Generic_Fly", "/Game/GameData/Stances/Data/StanceData_Generic_Fly"], "WaitTimeBeforeFirstFidgetAnim": 5.0, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "StanceData_OversphereDefender_ShockAttack", "bLockDodging": true, "export_type": "OakStanceData"}]

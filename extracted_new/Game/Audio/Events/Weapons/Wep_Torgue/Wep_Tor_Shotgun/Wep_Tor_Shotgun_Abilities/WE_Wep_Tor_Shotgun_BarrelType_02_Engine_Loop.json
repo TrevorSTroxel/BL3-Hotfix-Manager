@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 750.0, "RequiredBank": ["WwiseBank_Wep_Tor", "/Game/Audio/SoundBanks/Weapons/Wep_Torgue/WwiseBank_Wep_Tor"], "ShortID": 2726163248, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Wep_Tor_Shotgun_BarrelType_02_Engine_Loop", "export_type": "WwiseEvent"}]

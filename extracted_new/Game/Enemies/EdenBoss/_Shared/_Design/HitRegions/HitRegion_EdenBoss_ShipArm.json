@@ -1,1 +1,0 @@
-[{"BoneNames": ["R_Forearm", "ShipNose", "L_Rock", "ChestPlate"], "DamageScale": {"BaseValueConstant": 0.1}, "HitRegionName": "Ship", "ReflectionChance": 0.8, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "HitRegion_EdenBoss_ShipArm", "bCanRicochet": true, "bUseDamageScale": true, "export_type": "OakHitRegionData"}]

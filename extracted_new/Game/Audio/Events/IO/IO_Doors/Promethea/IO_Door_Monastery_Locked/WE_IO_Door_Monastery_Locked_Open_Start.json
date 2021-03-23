@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 5000.0, "RequiredBank": ["WwiseBank_IO_Doors_Promethea", "/Game/Audio/SoundBanks/IO/IO_Doors/WwiseBank_IO_Doors_Promethea"], "ShortID": 3890573068, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_IO_Door_Monastery_Locked_Open_Start", "export_type": "WwiseEvent"}]

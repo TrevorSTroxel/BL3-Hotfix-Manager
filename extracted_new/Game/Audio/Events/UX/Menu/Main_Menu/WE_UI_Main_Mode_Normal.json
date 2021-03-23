@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 2.7455833, "Min": 2.7455833}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_Menu", "/Game/Audio/SoundBanks/UX/UX/WwiseBank_Menu"], "ShortID": 4098822789, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_UI_Main_Mode_Normal", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]

@@ -1,1 +1,0 @@
-[{"EffectiveArea": ["NavMeshArea_Null", "/Game/Common/_Design/AI/Navigation/NavMeshArea_Null"], "IgnoreLayers": [["NavMeshLayer_PromBoss", "/Game/Enemies/PrometheaBoss/_Shared/_Design/Navigation/NavMeshLayer_PromBoss"]], "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "GbxNavArea_PromBoss_Destructible", "export_type": "GbxNavArea"}]

@@ -1,1 +1,0 @@
-[{"BaseMaxValue": {"BaseValueConstant": 200.0}, "ReplicationType": "GRPRT_Basic", "Resource": ["Resource_Ammo_Pistol", "/Game/GameData/Weapons/Ammo/Resource_Ammo_Pistol"], "StartingValue": 48.0, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "ResourcePool_Ammo_Pistol", "export_type": "GameResourcePoolData"}]

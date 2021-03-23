@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 3000.0, "RequiredBank": ["WwiseBank_Crea_Guardian", "/Game/Audio/SoundBanks/Creatures/Crea_Guardian/WwiseBank_Crea_Guardian"], "ShortID": 338448636, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_Crea_Guardian_General_SFX_Sprit_Trvl_Loop", "export_type": "WwiseEvent"}]

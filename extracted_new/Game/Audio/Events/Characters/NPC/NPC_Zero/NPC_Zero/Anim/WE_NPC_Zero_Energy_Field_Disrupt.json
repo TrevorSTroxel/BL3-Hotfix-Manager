@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 0.0, "Min": 0.0}, "MaxAttenuationRadius": 10000.0, "RequiredBank": ["WwiseBank_NPC_Zero", "/Game/Audio/SoundBanks/Characters/NPC/NPC_Zero/WwiseBank_NPC_Zero"], "ShortID": 1188434393, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_NPC_Zero_Energy_Field_Disrupt", "export_type": "WwiseEvent"}]

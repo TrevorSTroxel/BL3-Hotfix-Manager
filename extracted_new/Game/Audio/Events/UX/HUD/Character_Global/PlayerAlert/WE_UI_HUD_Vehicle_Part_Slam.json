@@ -1,1 +1,0 @@
-[{"DurationRange": {"Max": 6.9920626, "Min": 6.9920626}, "MaxAttenuationRadius": null, "RequiredBank": ["WwiseBank_HUD", "/Game/Audio/SoundBanks/UX/UX/WwiseBank_HUD"], "ShortID": 1368382948, "_apoc_data_ver": 17, "_jwp_export_idx": 1, "_jwp_is_asset": true, "_jwp_object_name": "WE_UI_HUD_Vehicle_Part_Slam", "bOneShot": true, "bSimple": true, "export_type": "WwiseEvent"}]
