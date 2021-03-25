@@ -29,7 +29,7 @@ color_types = ["blue", "dark blue", "red" , "dark red", "green", "dark green", "
 # The user is able to choose a json file and search through the contents
 def FileChoice():
     Tk().withdraw()
-    File_Path = askopenfilename(filetypes=[("Choose file", ".json")])
+    File_Path = askopenfilename(initialdir= r"F:\Users\Trevor\Desktop\extracted_new.7z", filetypes=[("Choose file", ".json")]) # 
     # Removes the files extention, as we dont need it
     Raw_Path = os.path.splitext(File_Path)[0]
     i = 0

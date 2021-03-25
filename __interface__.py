@@ -180,7 +180,7 @@ def SelectionWindow(Func):
     # The reason I do it like this is so that I only create what I need for each different window, saving resources and code space
     # What this should do now is give the user a list of all locations, patch types and notification flags, so that users have an easier time with creating their mod
     # I have mergen labels and entries into one thing because I relised that they were always the same amount, so whay not just make them one variable
-    for i in range(1, Lab_Ent):
+    for i in range(Lab_Ent):
         k = 0 # This insures that both label and entry/droplist have been stisfied before breaking to start the next variable
         Label_Text = "Label_" + str(i) + "_Text" # This checks for my genericly named functions to grab and put inside the buttons
         Entry_Var = "Entry_" + str(i)
@@ -197,7 +197,6 @@ def SelectionWindow(Func):
                 else: 
                     Entry(SelectionWindow, textvariable=value, width=50).grid(row = i, column=1, sticky="E") # normal entries to enter your data
                     k += 1
-
             # this is to insure that both label and optionmenu/entry are created before moving on to the next set that needs to be created
             if  k == 2:
                 break
