@@ -1,18 +1,19 @@
 # Going to try to import only what I need to save on space and calculation time
 # My files
-from bl3data import BL3Data
-from __info_function__ import FileChoice, openBL3Hotfixfile
-from __hotfix_control import Create_HotFix_File
-from _global_lists import Mod_Header, Reg_hotfix, Table_Hotfix, Mesh_Hotfix, DataBase_Results, Queue_Order, Comment_Queue, Headers_Queue, Map_Locations, Patch_Types
-from _global_lists import ListBoxWindow
+import os
+import subprocess
+import sys
 ################################################################################################################################################################
 # Libraies
 import tkinter as tk
-from tkinter import Entry, Button, Label, OptionMenu, Tk, StringVar
-from tkinter import DISABLED
-import subprocess
-import sys
-import os
+from tkinter import DISABLED, Button, Entry, Label, OptionMenu, StringVar, Tk
+from __hotfix_control import Create_HotFix_File
+from __info_function__ import FileChoice, openBL3Hotfixfile
+from _global_lists import (Comment_Queue, DataBase_Results, Headers_Queue,
+                           ListBoxWindow, Map_Locations, Mesh_Hotfix,
+                           Mod_Header, Patch_Types, Queue_Order, Reg_hotfix,
+                           Table_Hotfix)
+from bl3data import BL3Data
 ################################################################################################################################################################
 # Global variables
 data = BL3Data()

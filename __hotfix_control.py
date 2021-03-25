@@ -1,7 +1,8 @@
 # I have to put the program like this because in order to make hotfixes in the way
 # the bl3data/bl3hotfixmod work, it has to be executed in a row in order to work
+from _global_lists import (Comment_Queue, Headers_Queue, Mesh_Hotfix,
+                           Mod_Header, Queue_Order, Reg_hotfix, Table_Hotfix)
 from bl3hotfixmod import Mod
-from _global_lists import Mod_Header, Reg_hotfix, Table_Hotfix, Mesh_Hotfix, Queue_Order, Comment_Queue, Headers_Queue
 ################################################################################################################################################################
 #####################################################################################################################################################################################
 def Create_HotFix_File():

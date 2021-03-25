@@ -110,7 +110,9 @@ class BL3Data(object):
         is not already found.  Will require that the "filesystem" section be
         properly filled in, or we'll raise an exception.
         """
-
+        data_directory = (os.path.join(os.path.dirname(__file__), 'extracted_new.7z'))
+        JWP_directory = (os.path.join(os.path.dirname(__file__), 'john-wick-parse.exe'))
+        DB_directory = (os.path.join(os.path.dirname(__file__), 'bl3refs.sqlite3'))
         config_dir = appdirs.user_config_dir('bl3data')
 
         # Create the config dir if it doesn't exist
@@ -122,11 +124,11 @@ class BL3Data(object):
         if not os.path.exists(self.config_file):
             config = configparser.ConfigParser()
             config['filesystem'] = {
-                    'data_dir': 'extracted_new',
-                    'ueserialize_path': 'john-wick-parse.exe',
+                    'data_dir': data_directory,
+                    'ueserialize_path': JWP_directory,
                     }
             config['database'] = {
-                    'dbfile': 'bl3refs.sqlite3',
+                    'dbfile': DB_directory,
                     }
             with open(self.config_file, 'w') as odf:
                 config.write(odf)

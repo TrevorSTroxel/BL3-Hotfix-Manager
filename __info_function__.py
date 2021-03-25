@@ -10,16 +10,14 @@ so you have to manually enter all data in order for it to work, and even then my
 BL3 is still in its modding infancy so if this program becomes obsolete in the future, well I still found it a great experience
 making this and I hope BL3 live as long as BL2 did, as they are tied for some of my favorite games of all times
 """
-from bl3data import BL3Data
-from _global_lists import FileNames, File_Results_List, Search_List
-from _global_lists import ListBoxWindow
-################################################################################################################################################################
-from tkinter import Tk
-from tkinter.filedialog import askopenfilename, asksaveasfilename
-from tkinter import Tk, Frame, Button, Text, Entry, Scrollbar
-from tkinter import END, RAISED
-from flatten_json import flatten
 import os
+################################################################################################################################################################
+from tkinter import END, RAISED, Button, Entry, Frame, Scrollbar, Text, Tk
+from tkinter.filedialog import askopenfilename, asksaveasfilename
+from flatten_json import flatten
+from _global_lists import (File_Results_List, FileNames, ListBoxWindow,
+                           Search_List)
+from bl3data import BL3Data
 #Global variables
 DATA = BL3Data()
 Stan_Font = ("Times New Roman", 10)

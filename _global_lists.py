@@ -1,7 +1,7 @@
 ################################################################################################################################################################
 #Going to try to import only what I need to save on space and calculation time
-from tkinter import Tk, Frame, Label, Entry, Button, Scrollbar, Text
-from tkinter import LEFT, BOTH, RIGHT, TOP, Y, BOTTOM, END
+from tkinter import (BOTH, BOTTOM, END, LEFT, RIGHT, TOP, Button, Entry, Frame,
+                     Label, Scrollbar, Text, Tk, Y)
 # from bl3hotfixmod import LVL_TO_ENG
 ################################################################################################################################################################
 # Functions I uses to get only what is needed if you are choosing a JSON file
